@@ -11,9 +11,19 @@
 
 
     <header>
+    <h1>TIENDA.COM </h1>
+    <h1>    
     </header>
 
     <main>
+
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+
+    </div>
+    
     </main>
 
     <footer>
